@@ -1,4 +1,4 @@
-class Guardian < Formula
+class Equiv < Formula
   desc "Inter-Language Equivalent Package Finder"
   homepage "http://github.com/f/equiv"
   url "https://github.com/f/equiv/archive/0.0.1.tar.gz"
